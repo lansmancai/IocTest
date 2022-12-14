@@ -1,0 +1,5 @@
+caize=person.Student
+#set the title of a
+caize%name=renew
+leteacher=person.Teacher
+leteacher--stu=caize
